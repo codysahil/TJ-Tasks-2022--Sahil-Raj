@@ -11,3 +11,6 @@ using loops having two pointers i for outer loop and j for inner loop and compar
 
 Q3 ![Screenshot (43)](https://user-images.githubusercontent.com/98708331/201336170-8258f5d4-7a83-405c-aeb5-cb89ed3352b6.png)
 I just used the modulo operator which returns remainder and if their remainder is same then i just increment the count value by 1
+
+Q4 ![Screenshot (44)](https://user-images.githubusercontent.com/98708331/201646740-ea5e5188-f489-47fa-a489-f217b834343a.png)
+
