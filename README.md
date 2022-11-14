@@ -1,3 +1,4 @@
+![Screenshot (46)](https://user-images.githubusercontent.com/98708331/201652030-8aa4e79e-3b96-4df0-80ff-20a16b6f922d.png)
 # TJ-Tasks-2022--Sahil-Raj![Screenshot (41)](https://user-images.githubusercontent.com/98708331/201332329-a5c7efdc-f0e7-4de1-b729-f4b5b2dd046c.png)
 Q1 - power of 2
 Algorithm - Using bit manipulation
